@@ -45,9 +45,6 @@ openpyxl==3.1.2
 bash
 pip install -r requirements.txt
 Запуск парсера
-1. Клонирование/создание файла
-Сохраните код в файл movie_parser.py
-
-2. Запуск скрипта
+# Запуск
 bash
 python movie_parser.py
